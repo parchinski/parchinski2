@@ -59,11 +59,4 @@
 <div align=center>
   <img width=800 src="https://streak-stats.demolab.com?user=parchinski%20&theme=catppuccin-mocha&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="streak stats"/>
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
 <br/>
