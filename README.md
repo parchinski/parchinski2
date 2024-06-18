@@ -57,7 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=parchinski%20&theme=catppuccin-mocha&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="streak stats"/>
+  <img width=600 src="https://streak-stats.demolab.com?user=parchinski%20&theme=catppuccin-mocha&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="streak stats"/>
 </div>
 
 <br/><br/>
