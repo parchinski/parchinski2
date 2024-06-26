@@ -10,9 +10,9 @@
 
 <div align="center">
  
-   🔭 I’m currently working on a **Notion Clone** & **Kalogon's App**
+ 🔭 I’m currently working on a **Notion Clone** & **Kalogon's App**
  
- 🌱 I’m currently learning **Docker, Supabase, IT,**
+ 🌱 I’m currently learning **Docker, Supabase, IT, and the great big world of npm**
 
 💬 Ask me about **Node.js, React, Next.js... or anything related to issues in my repos**
 
