@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Next.js... or anything related to issues in my repos**
 
-⚡ Fun fact **Git was orignally referenced by Linus Torvalds as the "information manager from hell".**
+⚡ Fun fact Git was orignally referenced by Linus Torvalds as the **"information manager from hell"**
 
  </div>
  
