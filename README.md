@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on a **Notion Clone** & **Kalogon's App**
  
- 🌱 I’m currently learning **Docker, Supabase, IT, and everything TypeScript**
+ 🌱 I’m currently learning **Docker, Supabase, IT, React Libraries, & React Native**
 
 💬 Ask me about **Node.js, React, Next.js... or anything related to issues in my repos**
 
