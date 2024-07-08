@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Notion Clone**, **Kalogon's App**, and my college education to further my knowledge alongside HackUCF
+ 🔭 I’m currently working on a **Notion Clone**
  
  🌱 I’m currently learning **Docker, Supabase, IT, Expo, and Next.js**
 
