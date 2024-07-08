@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Notion Clone** & **Kalogon's App**
+ 🔭 I’m currently working on a **Notion Clone**, **Kalogon's App**, and my college education to further my knowledge alongside HackUCF
  
- 🌱 I’m currently learning **Docker, Supabase, IT, React Libraries, & React Native**
+ 🌱 I’m currently learning **Docker, Supabase, IT, Expo, and Next.js**
 
-💬 Ask me about **Node.js, React, Next.js... or anything related to issues in my repos**
+💬 Ask me about anything related to my current projects!!!
 
 ⚡ Fun fact Git was orignally referenced by Linus Torvalds as the **"information manager from hell"**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,nextjs,mysql,supabase,tailwindcss" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,c,java,nextjs,mysql,supabase,tailwindcss,go,xata,templ,bash,powershell" /><br>
 </div>
 
 <br/>
