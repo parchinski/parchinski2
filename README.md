@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on a **Notion Clone**
  
- 🌱 I’m currently learning **Docker, Supabase, IT, Expo, and Next.js**
+ 🌱 I’m currently learning **Docker, Supabase, Expo, and Next.js**
 
 💬 Ask me about anything related to my current projects!!!
 
