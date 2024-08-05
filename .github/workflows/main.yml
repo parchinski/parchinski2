@@ -31,6 +31,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
