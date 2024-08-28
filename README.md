@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Notion Clone**
+ 🔭 I’m currently working on redesigning HackUCF's website and surviving college
  
- 🌱 I’m currently learning **Docker, Supabase, Expo, and Next.js**
+ 🌱 I’m currently learning **Docker, Expo, and Next.js**
 
 💬 Ask me about anything related to my current projects!!!
 
