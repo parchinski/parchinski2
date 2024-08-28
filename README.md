@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=parchinski.parchinski" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=900&size=22&duration=2500&pause=1000&color=94E2D5&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Bryant+Parchinski" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=900&size=32&duration=2500&pause=1000&color=CBA6F7&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Bryant+Parchinski" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate software developer from Florida ☀</h3>
