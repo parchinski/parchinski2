@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on redesigning HackUCF's website and surviving college
  
- 🌱 I’m currently learning **Docker, Expo, and Remix.js**
+ 🌱 I’m currently learning **Cloudflare, Expo, and Remix.js**
 
 💬 Ask me about anything related to my current projects!!!
 
